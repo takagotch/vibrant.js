@@ -9,7 +9,7 @@ coffee -c gulpfile.coffee
 gulp
 ```
 
-```
+```js
 var img = document.createElement('img');
 img.setAttribute('src', 'example/octocat.png')
 img.addEventListener('load', function(){
